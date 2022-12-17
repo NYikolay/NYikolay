@@ -39,6 +39,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 
 ## 𝗦𝘁𝗮𝘁𝘀
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NYikolay&theme=dark)](https://git.io/streak-stats)
