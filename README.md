@@ -1,9 +1,6 @@
 ## Неважно как медленно ты двигаешься. Главное, что не стоишь на месте.
 
-
-<a href="https://t.me/NYikolay321">
-  <img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667">
-</a>
+Telegram - https://t.me/NYikolay321
 
 
 </br>
@@ -21,6 +18,8 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JS](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=yellow)
+![REACT](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white)
 
 **Tools**
 
@@ -32,6 +31,7 @@
 **Databases**
 
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-white?style=flat-square&logo=redis)
 
 ## 𝗦𝘁𝗮𝘁𝘀
   
